@@ -1,3 +1,5 @@
+#calculating mass of protein from inputted amino acid seq
+
 masses = {
 "A":71.03711,
 "C":103.00919,

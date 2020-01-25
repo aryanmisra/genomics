@@ -1,3 +1,4 @@
+#counts number of nucleotides within a DNA sequence
 seq = input("Input Data: ")
 counts = {"A":0,"C":0,"G":0,"T":0}
 for i in range(0,len(seq)):
